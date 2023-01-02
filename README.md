@@ -12,7 +12,7 @@
 📫 Contact me
 
 <p>
-  <a href="https://TunaHG.github.io" target="_blank">
+  <a href="https://velog.io/@tunahg" target="_blank">
     <img src="https://img.shields.io/badge/Devlog-black?style=for-the-badge&logo=Storyblok&logoColor=white"/>
   </a>
 </p>
